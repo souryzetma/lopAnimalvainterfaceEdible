@@ -1,0 +1,13 @@
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.exe
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.deps.json
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.runtimeconfig.json
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.runtimeconfig.dev.json
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.dll
+D:\baitap\LopAnimalVainterfaceEdible\bin\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.pdb
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.csprojAssemblyReference.cache
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.AssemblyInfoInputs.cache
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.AssemblyInfo.cs
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.csproj.CoreCompileInputs.cache
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.dll
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.pdb
+D:\baitap\LopAnimalVainterfaceEdible\obj\Debug\netcoreapp3.1\LopAnimalVainterfaceEdible.genruntimeconfig.cache
